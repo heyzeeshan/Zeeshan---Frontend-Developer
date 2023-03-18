@@ -1,0 +1,30 @@
+header{
+    color: white;
+    background: #37387a;
+    background-image: url('../../images/space.jpg');
+    min-height: 100vh;
+    padding-top: 40vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+  
+header h1{
+    font-size: 6rem;
+    margin: 0 0 1rem;
+}
+
+header h2{
+    font-weight: 400;
+    font-size: 2rem;
+    margin: 0 0 1rem;
+}
+
+header a{
+    color: #ffff;
+}
+
