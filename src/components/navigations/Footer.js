@@ -6,7 +6,7 @@ import './Footer.css'
 const MenuBar = () => {
     return (
         <footer >
-            <div className="footer">
+            <div className="footer bg-blue-500">
                 <ul>
                     <li><Link to="/#">Home</Link></li>
                     <li><Link to="/#">About Us</Link></li>
