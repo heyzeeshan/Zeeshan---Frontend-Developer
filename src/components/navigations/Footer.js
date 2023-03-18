@@ -9,7 +9,7 @@ const MenuBar = () => {
             <div className="footer">
                 <ul>
                     <li><Link to="/#">Home</Link></li>
-                    <li><Link href="/#">About Us</Link></li>
+                    <li><Link to="/#">About Us</Link></li>
                     <li><Link to="/#">Contact Us</Link></li>
                 </ul>
 
