@@ -6,8 +6,6 @@ import {
 import Layout from './layout/Layout'
 import Home from './components/pages/Home'
 
-import './App.css';
-
 function App() {
   return (
     <div>
