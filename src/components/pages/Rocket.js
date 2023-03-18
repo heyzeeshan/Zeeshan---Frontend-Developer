@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 const Rocket = () => {
   const [rockets, setRockets] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(1);
+  const [itemsPerPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState('');
 
   // For Search Form
