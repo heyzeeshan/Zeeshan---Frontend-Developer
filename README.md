@@ -9,8 +9,6 @@ Feel free to let me know if anything can be optimised and improved.
 3. The page is faster to load.
 4. Currently only rocket data is fetched from spaceX Publicly available API.
 5. Made sure to not use any uneccessary libraries.
-6. Currently didnt add test file.
 
 ## Video of working landing page
 URL: https://www.youtube.com/watch?v=oLt64nAbHtU
-
